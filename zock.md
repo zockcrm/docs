@@ -69,5 +69,5 @@ _todo_
 
 - Docker or K8s
 - PHP/Symfony
-- Postgresql
+- MySQL
 - Vue/nuxt/ts + bootstrap 5
