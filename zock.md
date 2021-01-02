@@ -30,10 +30,12 @@ Features, that will be used across all application.
 
 | Priority | Name | Description            |
 | :------: | ---- | ---------------------- |
-|     0    | Auth | You know why :) |
+|     0    | Auth | Yes. |
 |     1    | User roles | Defines whether user is an admin, a HR manager or an employee |
 |     1    | Email notifactions | Notify user about something happens in the app |
+|     2    | In-app notifactions | _todo_ |
 |     2    | User settings | Make possible customize web app (e.g. dark theme, notifications settings, etc.) |
+|     2    | Push notifactions | _todo_ |
 |     3    | Dark theme | Yep. |
 |     3    | Two factor auth | Security. |
 
@@ -51,11 +53,15 @@ _todo:_ Specify candidate page.
 
 ### Employee management
 
+Features that help manage employees.
+
 _todo_
 
 ### Payroll management
 
-_todo_
+Help manage payroll, related to employee functionality, but separated because of taxation's and law's complexity.
+
+_todo_: learn about law and taxes.
 
 ### Performance management
 
