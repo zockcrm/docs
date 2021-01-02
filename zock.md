@@ -10,7 +10,7 @@ HR's bureaucracy (e.g. uploading document scans, requesting vacations, etc).
 
 ## Features
 
-Let’s divide all features in 6 categories:
+Let’s divide all features into categories:
 1. General features
 1. Recruitment management
 1. Employee management
