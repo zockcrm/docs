@@ -26,6 +26,8 @@ Also, let's define our priorities:
 
 ### General features
 
+Features, that will be used across all application.
+
 | Priority | Name | Description            |
 | :------: | ---- | ---------------------- |
 |     0    | Auth | You know why :) |
@@ -37,23 +39,35 @@ Also, let's define our priorities:
 
 ### Recruitment management
 
+Allows to manage candidates: kipping a list and tracking the progress of each candidate recruitment.
+
 | Priority | Name | Description            |
 | :------: | ---- | ---------------------- |
 |     0    | Candidates crud | A list of candidates with CRUD functionality |
+|     1    | Candidate progress | A page with recruitment progress of candidate and recruitment history |
 |     2    | Candidate crawler | A crawler that searches the internet for new candidates and adds them to the list |
+
+_todo:_ Specify candidate page.
 
 ### Employee management
 
-todo
+_todo_
 
 ### Payroll management
 
-todo
+_todo_
 
 ### Performance management
 
-todo 
+_todo_ 
 
 ### Project administration
 
-todo
+_todo_
+
+## Tech overview
+
+- Docker or K8s
+- PHP/Symfony
+- Postgresql
+- Vue/nuxt/ts + bootstrap 5
